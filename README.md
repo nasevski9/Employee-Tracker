@@ -73,7 +73,3 @@ N/A
 
 You can find more about my work at my Github .
 
-
-
-
-# Employee-Tracker
